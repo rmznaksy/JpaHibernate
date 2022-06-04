@@ -17,6 +17,7 @@ import com.example.entities.City;
 @RequestMapping("/api")
 public class CityController {
 
+
 	private ICityService cityService;
 
 	@Autowired
